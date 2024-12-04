@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-      Hello There Vite + React + Tailwind here....
+      Hello There Vite + React + Tailwind here
     </div>
   )
 }
